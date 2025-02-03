@@ -6,9 +6,8 @@ help from the community around you.
 
 ## Application Versions
 
-1. [Version 1](https://www.figma.com/file/u2Jh1NDs3MTxBPxBwSdhin/HelpQuester-1?node-id=0%3A1)
+1. [Version 1](https://www.figma.com/design/UiUIUZWnVkd0MqsI6XOPbt/Assigment_1?m=auto&t=mpJoxIwnXyLAiRyG-1)
 2. [Version 2](https://www.figma.com/design/hw7jLsTwAH2120zVeDhjzH/Assigment_2?m=auto&t=71ufxhehpn8XkjRN-1)
-3. [Version 2 + Navigation](https://www.figma.com/file/NdAmVcBYr3bmu88qVqwCe9/CovidHelper-Testing)
 
 ## :thinking: About
 
@@ -21,18 +20,8 @@ for **your** community.
 
 ## :fire: Features
 
-- Login
-- Register
-- COVID-19 statistics for your community
-- COVID-19 symptom checklist
-- COVID-19 Hospitals and Test centers near you!
-- Request Help from your community
-- Offer to Help your community
-- Find postings where you can help
-- Message people who need help
-- Create appointments so you can track appointments you made with people on the platform
-- Alerts if someone you helped ended up getting COVID-19
-- Clean and modern user interface!
+- Chat with classmates
+- 
 
 ## Initial Prototype
 
