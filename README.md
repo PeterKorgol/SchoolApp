@@ -23,6 +23,12 @@ This app will be used to view course information. The user can select a course t
 
 ![Navigation Mockup](./navigation.png)
 
+## Desireable Functions
+- Assignment Progress Tracker: a checklist that users can use to mark assignments as "Started," "In Progress," or "Done."
+- Need Help Button on Assignment: a button that will be presinet in the assigment descriogin when cliked it will send a message to the profecsort tht the student needs help with the assigment
+- Instant Class Polls: Students will be able to create qick yes or no polls if they need help with something simple. For example, if the test is tomorrow.
+- Assignment Countdown: a Timer that will be counting down until the assigment is due. This will be prestent in the assigment details secttion.
+- Classmate Shoutouts: Studesns will be able to tag other studetns for sending quick appreciation messages or gettign help.
 
 ## Links
 
